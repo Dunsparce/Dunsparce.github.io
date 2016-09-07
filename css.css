@@ -4,18 +4,18 @@
 img {
     border-radius: 8px;
 	display:block;
-	
+	margin-left: 18%	
 }
 
 p{
 	color: limegreen;
 	font-size:23;
-	margin-left: 10%
+	margin-left: 18%
 }
 
 h1{
 	color: limegreen;
-	margin-left: 10%
+	margin-left: 18%
 }
 
 video{
@@ -31,6 +31,7 @@ margin-left: 18%
     cursor: pointer;
 	width: 400px;
 	min-width:400px;
+		margin-left: 18%
 }
 
 .dropdown {
